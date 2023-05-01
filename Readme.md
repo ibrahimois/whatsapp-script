@@ -3,13 +3,13 @@
 ## to use this script first run install 
 
 ```
-git clone """
+git clone https://github.com/ibrahimois/whatsapp-script.git whatsapp
 ```
 
 ## after installing source the file in your shell configs, i use .zshrc
 
 ```
-source /BASH_FILE_LOCATION/whatsapp
+source /BASH_FILE_LOCATION/whatsapp.sh
 ```
 
 ## update ./zshrc file
